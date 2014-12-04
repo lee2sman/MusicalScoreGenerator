@@ -1,4 +1,4 @@
-BeepMusicScore
-==============
+MusicalScoreGenerator
+=====================
 
-Generates instructions/scores for performing electronic improv music
+Generates instructions/scores for performing electronic improv music.
